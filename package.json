@@ -29,5 +29,7 @@
       }
     ]
   },
-  "icon": "./images/rmiku2022_icon.png"
+  "icon": "./images/icon.png",
+  "repository": "https://github.com/garlic-boi/racing-miku-2022-theme.git",
+  "license": "SEE LICENSE IN LICENSE.md"
 }
