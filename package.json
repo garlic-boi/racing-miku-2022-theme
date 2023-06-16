@@ -1,0 +1,33 @@
+{
+  "name": "theme-racing-miku-2022",
+  "version": "1.0.0",
+  "displayName": "Racing Miku 2022 Theme",
+  "description": "MIKUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
+  "categories": [
+    "Programming Languages",
+    "Themes"
+  ],
+  "keywords": [
+    "Miku",
+    "Hatsune Miku",
+    "Racing Miku",
+    "Vocaloid",
+    "Anime"
+  ],
+  "author": {
+    "name": "Legalll"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Racing Miku 2022",
+        "uiTheme": "vs-dark",
+        "path": "./themes/racing-miku-2022-color-theme.json"
+      }
+    ]
+  },
+  "icon": "./images/rmiku2022_icon.png"
+}
