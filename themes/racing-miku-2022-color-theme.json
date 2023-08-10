@@ -200,14 +200,14 @@
     {
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#569CD6",
+        "foreground": "#2EA3CE",
         "fontStyle": "bold"
       }
     },
     {
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#569CD6",
+        "foreground": "#2EA3CE",
         "fontStyle": "bold"
       }
     },
@@ -238,7 +238,7 @@
     {
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
@@ -268,7 +268,7 @@
     {
       "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
@@ -292,25 +292,25 @@
     {
       "scope": "meta.diff.header",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
@@ -337,7 +337,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
@@ -358,7 +358,7 @@
         "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
@@ -386,7 +386,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {
@@ -429,7 +429,7 @@
     {
       "scope": ["constant.character", "constant.other.option"],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#2EA3CE"
       }
     },
     {

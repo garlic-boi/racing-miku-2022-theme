@@ -1,13 +1,26 @@
 # Change Log
 
-All notable changes to the "racing-miku-2022-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
+
+### Changed
+
+- Adjusted coloring of storage.modifier and similar tokens to match storage.type
+
+## [1.1.0] - 2023 June 16
+
+### Added
+
+- Added LICENSE, icon, repository
+- Added semantic token highlighting
+
+### Changed
 
 - Adjusted syntax coloring
 
-## [0.0.1] - 2023 June 6
+### Removed
+
+- Removed old "trimmed" theme file
+
+## [1.0.0] - 2023 June 6
 
 - Initial release
